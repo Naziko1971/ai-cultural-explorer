@@ -27,7 +27,7 @@ export const countries = [
       famous_places: "The Charyn Canyon, Almaty mountains, and Baiterek Tower are popular attractions.",
       transportation: "People travel by buses, trains, cars, and domestic flights.",
       weather: "Kazakhstan has hot summers and cold winters.",
-      fun_fact: "Kazakhstan is the birthplace of the first human spaceflight launched from Baikonur."
+      fun_fact: "Kazakhstan is the birthplace of the first human spaceflight launched from Baikonur.",
       currency: "Tenge (KZT)",
       capital: "Astana",
       population: "20 million",

@@ -21,9 +21,9 @@ export function getAIAnswer(country, text) {
     return country.facts.greeting;
   }
 
-  if (message.includes("language")) {
-    return country.facts.language;
-  }
+  if (message.includes("language") || message.includes("speak")) {
+  return country.facts.language;
+}
 
   if (message.includes("sport")) {
     return country.facts.sports;

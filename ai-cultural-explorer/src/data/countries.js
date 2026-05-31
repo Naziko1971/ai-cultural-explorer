@@ -2,7 +2,7 @@ export const countries = [
   {
     id: "kazakhstan",
     name: "Kazakhstan",
-    image: "/images/kazakhstan.jpg",
+    image: "/ai-cultural-explorer/images/kazakhstan.jpg",
     student: "Aruzhan",
     city: "Almaty",
     color: "from-sky-100 to-blue-50",
@@ -35,7 +35,7 @@ export const countries = [
   {
     id: "uk",
     name: "United Kingdom",
-    image: "/images/uk.jpg",
+    image: "/ai-cultural-explorer/images/uk.jpg",
     student: "Oliver",
     city: "London",
     color: "from-red-100 to-indigo-50",
@@ -66,7 +66,7 @@ export const countries = [
   {
     id: "japan",
     name: "Japan",
-    image: "/images/japan.jpg",
+    image: "/ai-cultural-explorer/images/japan.jpg",
     student: "Yuki",
     city: "Tokyo",
     color: "from-pink-100 to-rose-50",
@@ -95,7 +95,7 @@ export const countries = [
   {
     id: "usa",
     name: "USA",
-    image: "/images/usa.jpg",
+    image: "/ai-cultural-explorer/images/usa.jpg",
     student: "Emily",
     city: "New York",
     color: "from-blue-100 to-slate-50",
@@ -125,7 +125,7 @@ export const countries = [
   {
     id: "france",
     name: "France",
-    image: "/images/france.jpg",
+    image: "/ai-cultural-explorer/images/france.jpg",
     student: "Camille",
     city: "Paris",
     color: "from-purple-100 to-blue-50",

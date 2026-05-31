@@ -18,6 +18,21 @@ export const countries = [
         "Guests are very important in Kazakh culture. Families welcome guests with tea and food.",
       greeting:
         "People often shake hands and say 'Salemetsiz be?' to greet each other politely.",
+      clothing: "Traditional clothing includes the shapan and beautiful embroidered dresses.",  
+      language: "Kazakh is the state language, and many people also speak Russian.",
+      sports: "Horse riding, kokpar, boxing, and wrestling are popular sports.",
+      music: "The dombra is one of the most famous traditional musical instruments.",
+      family: "Family relationships and respect for elders are very important.",
+      geography: "Kazakhstan is the ninth-largest country in the world.",
+      famous_places: "The Charyn Canyon, Almaty mountains, and Baiterek Tower are popular attractions.",
+      transportation: "People travel by buses, trains, cars, and domestic flights.",
+      weather: "Kazakhstan has hot summers and cold winters.",
+      fun_fact: "Kazakhstan is the birthplace of the first human spaceflight launched from Baikonur."
+      currency: "Tenge (KZT)",
+      capital: "Astana",
+      population: "20 million",
+      flag_fact: "...",
+      animal_symbol: "...",
     },
     quiz: [
       {
